@@ -1,0 +1,19 @@
+{
+  "name": "mdv",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syt123450/MDV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syt123450/MDV/issues"
+  },
+  "homepage": "https://github.com/syt123450/MDV#readme"
+}
